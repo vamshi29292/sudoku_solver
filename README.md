@@ -1,2 +1,2 @@
 # sudoku_solver
-A GOlang command line tool to solve sudoku
+A command line tool to solve sudoku
